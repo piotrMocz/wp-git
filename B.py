@@ -4,9 +4,9 @@ def pow(x, y):
 
 
 def foo():
-    return 'siema'
+    return 'siema co tam'
 
 
 def g(x):
-    return x**2
+    return x**5
 
